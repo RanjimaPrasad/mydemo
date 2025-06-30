@@ -1,1 +1,3 @@
-my thirdfile
+my third file
+second line
+third line
